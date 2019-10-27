@@ -31,7 +31,7 @@ $(document).ready(function(){
 
 
 //Get Hostname
-document.getElementById("hostname").innerHTML= "<strong>Host Name: </strong>" + location.hostname;
+document.getElementById("hostname").innerHTML= "<strong>Host: </strong>" + location.hostname;
 
 
 
