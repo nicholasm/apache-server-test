@@ -96,5 +96,10 @@
 </div>
 
 <script lang="text/javascript" src="cscc1030.js"></script>
+<pre>
+    SERVER_NAME = <!--#echo var="SERVER_NAME"-->
+    SERVER_SOFTWARE = <!--#echo var="SERVER_SOFTWARE"-->
+    SERVER_PROTOCOL = <!--#echo var="SERVER_PROTOCOL"-->
+</pre>
 </body>
 </html>
